@@ -1,7 +1,7 @@
-uma primeira modificação
+-uma primeira modificação
 - outra modificação
 poderá ter várias linhas
-bug
+#bug essa linha gerou um bug 
 3
 4
 5
